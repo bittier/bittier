@@ -28,7 +28,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapten&theme=monokai)
 
+
 ### Repo Stats 
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=YuzzuKamiyaka&repo=bitch-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=YuzzuKamiyaka&repo=YuzzuKamiyaka.github.io&theme=dark)
+
 
 
 
