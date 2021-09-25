@@ -22,7 +22,13 @@
 
 
 
+### Github Stats 
 
+![github card](https://github-readme-stats.vercel.app/api?username=SH 鑫&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapten&theme=monokai)
+
+### Repo Stats 
 
 
 
