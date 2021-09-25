@@ -1,3 +1,5 @@
+<h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
+
 -  Hi, I’m @bittier
 -  You can call me xin
 -  I’m interested in ...
