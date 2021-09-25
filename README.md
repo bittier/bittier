@@ -31,8 +31,8 @@
 
 ### Repo Stats 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=YuzzuKamiyaka&repo=bitch-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=YuzzuKamiyaka&repo=YuzzuKamiyaka.github.io&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=SH鑫&repo=Azbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=SH鑫&repo=hl-bot&theme=dark)
 
 
 
