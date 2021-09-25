@@ -29,15 +29,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapten&theme=monokai)
 
 
-### Repo Stats 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SH鑫&repo=Azbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SH鑫&repo=hl-bot&theme=dark)
-
-
-
-
-
 
 
 
