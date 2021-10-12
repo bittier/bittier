@@ -25,7 +25,7 @@
 
 
 
--  Hi, I’m @bittier
+-  Hi, I’m @azkan_e
 -  You can call me xin
 -  I’m interested in ...
 -  I’m currently learning ...
