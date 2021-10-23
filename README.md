@@ -48,9 +48,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapten&theme=monokai)
 
 
-<label for="atk">Attack: </label>
-<meter id="atk" min ="0" max="100" low="25"
- high="45" optimum="85" value="45"></meter><br/>
+<label for="atk">Attack: </label> <meter id="atk" min ="0" max="100" low="25" high="45" optimum="85" value="45"></meter><br/>
 
 
 
