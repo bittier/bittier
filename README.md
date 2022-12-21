@@ -1,4 +1,4 @@
-<p align="center">
+Uuu<p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
@@ -47,8 +47,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapten&theme=monokai)
 
-
-<label for="atk">Attack: </label> <meter id="atk" min ="0" max="100" low="25" high="45" optimum="85" value="45"></meter></a>
 
 
 
