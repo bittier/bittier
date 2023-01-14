@@ -11,7 +11,7 @@ Uuu<p align="center">
 
 
 <h1 align="center">hai yo <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
-<a href="https://youtube.com/channel/UCWNYdNxhx4yhv6AWbyuQSrg"><img align="center" height="auto" src="https://github.com/bittier/bittier.github.io/blob/main/data/photo1671004682.jpeg" />
+<a href="https://youtube.com/channel/UCWNYdNxhx4yhv6AWbyuQSrg"><img align="center" height="auto" src="[https://github.com/bittier/bittier.github.io/blob/main/data/photo1671004682.jpeg](https://telegra.ph/file/d826ed4128ba873017479.jpg)" />
 
 ### Connect with me 
 <p align="center">
