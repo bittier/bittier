@@ -1,4 +1,4 @@
-Uuu<p align="center">
+<a href="https://bicolink.com/ref/Azkannnn"><img src="https://bicolink.com/i/bicolink_referal_banner.jpeg" style="width:250px;height:250px;"></a><p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
